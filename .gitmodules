@@ -1,0 +1,7 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:subins2000/polu.subinsb.com.git
+	branch = gh-pages
+[submodule "themes/material-design"]
+	path = themes/material-design
+	url = https://github.com/pdevty/material-design.git

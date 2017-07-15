@@ -1,0 +1,4 @@
+<!-- image -->
+{{ with .Get "link"}}<a href="{{.}}">{{ end }}
+    <img class="materialboxed" width="100%" src="{{ .Get "src" }}" alt="{{ with .Get "title"}}{{.}}{{ end }}" data-caption="{{ with .Get "title"}}{{.}}{{ end }}" />
+{{ if .Get "link"}}</a>{{ end }}
