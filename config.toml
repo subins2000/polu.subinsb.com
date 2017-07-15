@@ -1,4 +1,4 @@
-baseURL = "https://polu.subinsb.com/"
+baseURL = "https://polu.subinsb.com"
 languageCode = "en-us"
 title = "CryptoPolu"
 theme = "material-design"
