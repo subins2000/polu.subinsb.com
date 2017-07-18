@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CryptoPolu</title>
+    <link>https://polu.subinsb.com/</link>
+    <description>Recent content on CryptoPolu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2017 CryptoPolu</copyright>
+    <lastBuildDate>Sun, 16 Jul 2017 00:32:14 +0530</lastBuildDate>
+    
+	<atom:link href="https://polu.subinsb.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Donate</title>
+      <link>https://polu.subinsb.com/donate/</link>
+      <pubDate>Sun, 16 Jul 2017 00:32:14 +0530</pubDate>
+      
+      <guid>https://polu.subinsb.com/donate/</guid>
+      <description>Please donate if you found CryptoPolu useful. Also, share this useful tool with your fellow traders.
+I love to hear your feedback. Please use the comment box below.</description>
+    </item>
+    
+    <item>
+      <title>How It Works</title>
+      <link>https://polu.subinsb.com/how-it-works/</link>
+      <pubDate>Sun, 16 Jul 2017 00:32:14 +0530</pubDate>
+      
+      <guid>https://polu.subinsb.com/how-it-works/</guid>
+      <description>Program The signaller program is called Polu. It is written in PHP and runs using PHP 7.1 on Ubuntu 16.04.
+Frequency The signaller is started when I use my computer. I&amp;rsquo;m in the GMT+05:30 timezone. So you must be seeing most of the signals during the working hours of this timezone.
+The signals won&amp;rsquo;t be send automatically. I analyse the market manually before sending it. What Polu does is pick needles from a haystack and I make a cloth for you after careful consideration.</description>
+    </item>
+    
+  </channel>
+</rss>
